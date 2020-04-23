@@ -1,3 +1,5 @@
+Abandoned: Use https://github.com/async-aws/testing-s3 instead. 
+
 fake-s3
 =======
 
